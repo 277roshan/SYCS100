@@ -79,8 +79,6 @@ def bsearch(listx,searchval):
         midvalue = currentlist[cutvar]
     return midvalue     
 
-print bsearch([1,2,3,4,5],4)
-
 
 
 #PRAJJWAL DANGAL, email: prajjwal.dangal@bison.howard.edu
